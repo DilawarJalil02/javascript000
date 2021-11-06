@@ -1,2 +1,3 @@
 # javascript000
- some  projects to demonstrate javascript 
+ This repository will contain 20 projects
+ developed with HTML, CSS, and JavaScript. 
